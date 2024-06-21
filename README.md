@@ -1,1 +1,1 @@
-# FindParty_BIIMS
+# FindParty
